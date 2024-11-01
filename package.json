@@ -10,8 +10,22 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.8",
     "@astrojs/check": "^0.9.4",
-    "typescript": "^5.6.3"
-  }
+    "astro": "^4.16.8",
+    "node": "^22.11.0",
+    "typescript": "^5.6.3",
+    "upgrade": "^1.1.0"
+  },
+  "description": "```sh npm create astro@latest -- --template basics ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trent130/astro-starter.git"
+  },
+  "author": "lawrence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trent130/astro-starter/issues"
+  },
+  "homepage": "https://github.com/trent130/astro-starter#readme"
 }
